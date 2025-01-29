@@ -107,5 +107,5 @@ This software is proprietary and cannot be modified, but can be used without exp
 
 ☕ **Buy Me a Coffee**
 
-If you enjoy this project and want to support my work, feel free to drop me a mail & let me know how it could be improved !! Thank you! 🙏
+If you enjoy this project and want to support my work, feel free to drop me a mail & give it a star n let me know how it could be improved !! Thank you! 🙏
 
