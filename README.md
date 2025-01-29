@@ -92,9 +92,12 @@ If a command isn't found, a colorful, humorous message will be displayed with a 
  ![p2](https://github.com/user-attachments/assets/3b4f007a-d123-4572-9645-97a6a3b738a4)
  ![p1](https://github.com/user-attachments/assets/f51a7f32-5ee3-4ff8-943d-59c46e7d12d8)
 ---
-## License
+## Author & License 
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is not licensed under the MIT License.
+Copyright (c) [2024] [Sadiq Ahmed Killedar / @Er-Sadiq](https://github.com/Er-Sadiq). All rights reserved.
+
+This software is proprietary and cannot be modified, redistributed, or used without express permission from the author.
 
 ---
 
