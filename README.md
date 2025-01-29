@@ -101,11 +101,11 @@ If a command isn't found, a colorful, humorous message will be displayed with a 
 This project is not licensed under the MIT License.
 Copyright (c) [2024] [Sadiq Ahmed Killedar / @Er-Sadiq](https://github.com/Er-Sadiq). All rights reserved.
 
-This software is proprietary and cannot be modified, redistributed, or used without express permission from the author.
+This software is proprietary and cannot be modified, but can be used without express permission from the author XD.
 
 ---
 
 ☕ **Buy Me a Coffee**
 
-If you enjoy this project and want to support my work, feel free to buy me a coffee – it'll help fuel my late-night coding sessions! ☕ Your support is much appreciated and keeps the terminal magic flowing. Thank you! 🙏
+If you enjoy this project and want to support my work, feel free to drop me a mail & let me know how it could be improved !! Thank you! 🙏
 
