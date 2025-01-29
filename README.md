@@ -90,7 +90,11 @@ If a command isn't found, a colorful, humorous message will be displayed with a 
 ---
 ## Demo
  ![p2](https://github.com/user-attachments/assets/3b4f007a-d123-4572-9645-97a6a3b738a4)
+ ![p3](https://github.com/user-attachments/assets/c8ad42e9-aefa-4149-a2a6-f2fa9db578f9)
  ![p1](https://github.com/user-attachments/assets/f51a7f32-5ee3-4ff8-943d-59c46e7d12d8)
+ ![p5](https://github.com/user-attachments/assets/6ef4a755-2f39-4f4c-9b01-b0f37efb9e03)
+
+
 ---
 ## Author & License 
 
