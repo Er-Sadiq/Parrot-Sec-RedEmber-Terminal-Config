@@ -70,7 +70,7 @@ If a command isn't found, a colorful, humorous message will be displayed with a 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/parrot-security-mode-bash-config.git
+   git clone https://github.com/Er-Sadiq/Parrot-Sec-RedEmber-Terminal-Config.git
    cd parrot-security-mode-bash-config
    ```
 
